@@ -1,0 +1,11 @@
+main.java.bll
+main.java.bll.validators.validators
+main.java.connection
+main.java.dao
+main.java.model
+main.java.presentation
+main.java.presentation.view
+main.java.presentation.view.clientoperations
+main.java.presentation.view.finalstatus
+main.java.presentation.view.productoperations
+main.java.start

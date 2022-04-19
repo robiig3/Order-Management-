@@ -1,0 +1,8 @@
+name=Clau
+address=Departe
+age=21
+email=clau@yahoo
+name=mila oreo chocolate
+price=5.0
+quantity=3
+total price=15.0
