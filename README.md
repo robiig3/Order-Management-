@@ -1,1 +1,4 @@
-# Order-Management-
+# Order-Management
+Cerinta temei: Considerati o aplicatie “Order Management” pentru a procesa comenzile unor clienti dintr-un depozit, inserarea de clienti si produse noi, dar si stergerea lor. O baza de date este folosita pentru a stoca informatiile despre produse, clienti si comenzi. Aplicatia ar trebui sa permita procesarea comenzilor dintr-un fisier text dat ca argument, sa rezolve operatiile solicitate, sa salveze datele in baza de date si sa genereze rapoarte in format pdf.
+Obiectivul acestei teme este de a realiza anumite operatii specifice unui depozit (realizarea comenzilor, adaugare/ stergere clienti, adaugare/stergere produse). 
+Aplicatia trebuie sa fie capabila de a interpreta o anumita operatie citita din fisier si de a o realiza. Baza de date trebuie sa stocheze datele si sa fie capabila de a suporta operatiile respective. In baza de date se vor retine informatii despre clienti, produse si comenzi. Despre un client se vor retine doua date: numele si adresa, produsele vor fi definite prin nume, pret si cantitate. O comanda se va realiza sau nu, in functie de datele anterior stocate despre clienti si comenzi.
